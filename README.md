@@ -1,1 +1,1 @@
-This is version 1.0 of this project
+This is version 2.0 of this project
