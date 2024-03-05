@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid white;
+    border-radius: 50%;
+    width: 250px;
+    height: 200;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+hr{
+    border: none;
+    height: 3px;
+    color: white;
+    background-color: white;
+}
+p{
+    color: white;
+}
+
+
+.dancing{
+    display: inline-block;
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    border: 1px solid;
+}
