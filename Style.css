@@ -33,7 +33,7 @@ p{
     color: white;
 }
 
-
+/* This code is outdated...you can achive the same results with flex
 .dancing{
     display: inline-block;
     height: 200px;
@@ -57,4 +57,9 @@ p{
 .text{
     position: relative;
     bottom: 300px;
+}
+*/
+.container{
+    display: flex;
+    gap: 10px;
 }
