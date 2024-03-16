@@ -1,65 +1,9 @@
-body{
-    background-color: black;
-}
-
-.me {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: solid white;
-    border-radius: 50%;
-    width: 250px;
-    height: 200;
-}
-h1{
-    text-align: center;
-    color: white;
-}
-h2{
-    text-align: center;
-    color: white;
-}
-h3{
-    text-align: center;
-    color: white;
+#title{
+    background-color: rgb(180, 240, 240);
 }
 hr{
-    border: none;
-    height: 3px;
-    color: white;
-    background-color: white;
+    fill: black;
 }
-p{
-    color: white;
-}
-
-/* This code is outdated...you can achive the same results with flex
-.dancing{
-    display: inline-block;
-    height: 200px;
-    width: 300px;
-    padding: 5px;
-    border: 1px solid;
-    position: relative;
-    bottom: 240px;
-    left: 20px;
-}
-.dancing2{
-    display: inline-block;
-    height: 200px;
-    width: 300px;
-    padding: 5px;
-    border: 1px solid;
-    position: relative;
-    bottom: 440px;
-    left: 75%;
-}
-.text{
-    position: relative;
-    bottom: 300px;
-}
-*/
-.container{
-    display: flex;
-    gap: 10px;
+.logo{
+    height: 150px;
 }
